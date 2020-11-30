@@ -1,4 +1,4 @@
-# Automated air-puff stimulating device for mouse training on a treadmill
+# Air-puff for mouse training
 
 # Hardware
 
